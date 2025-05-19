@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{CEDB352F-70D9-47F4-93A5-6022FF46731A}" SchemaVersion="123">
+	<Presets>
+		<WorkUnit Name="Default Work Unit" ID="{CEDB352F-70D9-47F4-93A5-6022FF46731A}" PersistMode="Standalone"/>
+	</Presets>
+</WwiseDocument>
