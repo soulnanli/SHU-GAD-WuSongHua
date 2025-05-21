@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{25DC1A56-AEB2-44CE-9035-8424C9A67A90}",
     "Language": "SFX",
-    "Hash": "{76DD598A-CCFD-1CD3-20F6-890358BFB1B3}",
+    "Hash": "{D6BB27B9-FF55-2FAF-3560-4928BDF3D05C}",
     "ObjectPath": "Play_Obj_Campfire",
     "ShortName": "Play_Obj_Campfire",
     "Path": "Event/Play_Obj_Campfire.bnk",
@@ -210,6 +210,6 @@
     ]
    }
   ],
-  "FileHash": "{5AE8FFF2-8C8B-AF87-65A8-141E9586A1E2}"
+  "FileHash": "{9EB61A64-6140-69C0-B675-253CE98277A7}"
  }
 }

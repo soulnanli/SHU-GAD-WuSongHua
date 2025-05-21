@@ -1,0 +1,47 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "386247501",
+    "Type": "Event",
+    "GUID": "{56446184-0F41-4450-849E-F73C1C8E3E2F}",
+    "Language": "SFX",
+    "Hash": "{704B88BB-6E88-481C-A07F-217B040AD590}",
+    "ObjectPath": "Play_Obj_Muelsyse",
+    "ShortName": "Play_Obj_Muelsyse",
+    "Path": "Event/Play_Obj_Muelsyse.bnk",
+    "Media": [
+     {
+      "Id": "937363244",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "干员报到.wav",
+      "Path": "Media/937363244.wem",
+      "CachePath": "73/{7360027B-87DD-F62A-5883-B1E94172988F}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "386247501",
+      "Name": "Play_Obj_Muelsyse",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Obj_Muelsyse",
+      "GUID": "{56446184-0F41-4450-849E-F73C1C8E3E2F}",
+      "MaxAttenuation": "1500",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "937363244"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{94B8AE2C-E242-43D3-E184-E759661C2EA6}"
+ }
+}

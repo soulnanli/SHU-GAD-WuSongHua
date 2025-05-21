@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	386247501	Play_Obj_Muelsyse			\Default Work Unit\Play_Obj_Muelsyse	
+
