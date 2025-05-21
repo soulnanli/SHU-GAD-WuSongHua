@@ -615,7 +615,7 @@
 							<Custom>
 								<Attenuation Name="Attenuation (Custom)" ID="{FB92AD47-9A62-4F3C-ACE8-2C97FA20428B}" ShortID="293505084">
 									<PropertyList>
-										<Property Name="RadiusMax" Type="Real64" Value="500"/>
+										<Property Name="RadiusMax" Type="Real64" Value="1500"/>
 									</PropertyList>
 									<CurveUsageInfoList>
 										<VolumeDryUsage>
@@ -631,7 +631,7 @@
 															<Flags>5</Flags>
 														</Point>
 														<Point>
-															<XPos>500</XPos>
+															<XPos>1500</XPos>
 															<YPos>-200</YPos>
 															<Flags>37</Flags>
 														</Point>

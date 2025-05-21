@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{26DC466B-5C98-45A6-82A8-C015BD0CDD54}",
     "Language": "SFX",
-    "Hash": "{3AD0C0B6-9F50-F3DB-CEC0-041FAA1BFEDF}",
+    "Hash": "{9B06E0DB-625F-E103-757B-04467327794B}",
     "ObjectPath": "Play_Foley_FS_Run",
     "ShortName": "Play_Foley_FS_Run",
     "Path": "Event/Play_Foley_FS_Run.bnk",
@@ -563,6 +563,6 @@
     ]
    }
   ],
-  "FileHash": "{4F223A4B-1B41-7FCA-50D2-C8AE1C73E143}"
+  "FileHash": "{66D15265-DF36-61BA-176F-F03E92C828B9}"
  }
 }
