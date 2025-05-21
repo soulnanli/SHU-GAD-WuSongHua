@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{01D662CC-9919-400B-A46D-DC092C4DD959}" SchemaVersion="123">
+	<AudioObjects>
+		<WorkUnit Name="Ambience" ID="{01D662CC-9919-400B-A46D-DC092C4DD959}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="AMB_2D_EXT_GEN" ID="{A725E4A0-731A-4AC8-AE42-60CD6743D0F5}" ShortID="159414894">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{4C0C7C83-2D84-4078-9C5F-E2CA4B94A299}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{27C263EC-C901-456F-97CA-DFCC06B8FD4B}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="AMB_2D_EXT_GEN" ID="{0A0153CB-0F5B-40C8-BDFD-F5C9DD843039}">
+							<Language>SFX</Language>
+							<AudioFile>AMB_2D_EXT_GEN.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="388722197"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="AMB_2D_EXT_GEN" ID="{0A0153CB-0F5B-40C8-BDFD-F5C9DD843039}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>
