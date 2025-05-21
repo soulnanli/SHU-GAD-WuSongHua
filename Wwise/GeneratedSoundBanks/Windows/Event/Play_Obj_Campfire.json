@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{25DC1A56-AEB2-44CE-9035-8424C9A67A90}",
     "Language": "SFX",
-    "Hash": "{B4AFFFF7-803B-676E-195C-C6C8A7803919}",
+    "Hash": "{76DD598A-CCFD-1CD3-20F6-890358BFB1B3}",
     "ObjectPath": "Play_Obj_Campfire",
     "ShortName": "Play_Obj_Campfire",
     "Path": "Event/Play_Obj_Campfire.bnk",
@@ -157,6 +157,7 @@
       "Name": "Play_Obj_Campfire",
       "ObjectPath": "\\Events\\Default Work Unit\\Play_Obj_Campfire",
       "GUID": "{25DC1A56-AEB2-44CE-9035-8424C9A67A90}",
+      "MaxAttenuation": "1000",
       "DurationType": "Infinite",
       "MediaRefs": [
        {
@@ -209,6 +210,6 @@
     ]
    }
   ],
-  "FileHash": "{CE8E5C38-E53B-C05B-3E29-58D931386A0B}"
+  "FileHash": "{5AE8FFF2-8C8B-AF87-65A8-141E9586A1E2}"
  }
 }
